@@ -1,0 +1,16 @@
+#menu{
+  background: linear-gradient(to right, #4169E1, #ADD8E6	);
+  box-shadow: 2px 1px 1px black;
+}
+.clientes{
+  background-color: #87CEEB;
+  box-shadow: 2px 1px 1px black;
+
+}
+.tela{
+  color:white;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+}
+.fa{
+  text-shadow: 1px 1px 1px black;
+}
